@@ -1,6 +1,6 @@
-Olá,eu sou Gabriel Caproni Pegoraro
+HELLO!! My name is Gabriel Caproni Pegoraro
 
-- 🌱 Estudando Bacharelado em Sistemas de Informação
+- 🌱 I am Studing baccalaureate in information systems
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
