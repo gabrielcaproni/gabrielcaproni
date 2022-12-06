@@ -3,7 +3,7 @@ HELLO!! My name is Gabriel Caproni Pegoraro
 - 🌱 I am Studing baccalaureate in information systems
 
 <div align="center">
-  <a href="https://beacons.ai/gabrielcaproni">
+  <a href="https://github.com/gabrielcaproni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcaproni&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaproni&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
