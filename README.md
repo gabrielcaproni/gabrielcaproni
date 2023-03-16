@@ -1,6 +1,3 @@
-HELLO!! My name is Gabriel Caproni Pegoraro
-
-- 🌱 I am Studing baccalaureate in information systems
 
 ## ⚡ GitHub Stats:
 <div align="center">  
