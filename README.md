@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffdead&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6af900&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+é+Gabriel+Caproni;Tenho+19+anos;Eu+estou+me+Graduando+em+Sistemas+de+Informação;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielcaproni&bg_color=0d1117&color=ffdead&line=7b68ee&point=ffdead&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielcaproni&bg_color=0d1117&color=6af900&line=7b68ee&point=ffdead&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielcaproni&show_icons=true&count_private=true&hide_border=true&title_color=ffdead&icon_color=b0c4de&text_color=b0c4de&bg_color=0d1117" alt="Gabriel Pegoraro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaproni&layout=compact&hide_border=true&title_color=ffdead&text_color=b0c4de&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielcaproni&show_icons=true&count_private=true&hide_border=true&title_color=6af900&icon_color=b0c4de&text_color=b0c4de&bg_color=0d1117" alt="Gabriel Pegoraro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcaproni&layout=compact&hide_border=true&title_color=6af900&text_color=b0c4de&bg_color=0d1117" />
 </div>
 
   
