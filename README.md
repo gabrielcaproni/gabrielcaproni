@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f7000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Pegoraro;Tenho+19+anos;E+estou+me+graduando+em+Sistemas+de+Informação;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f78700&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Pegoraro;Tenho+19+anos;E+estou+me+graduando+em+Sistemas+de+Informação;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielcaproni&bg_color=000000&color=0f7000&line=461e00&point=ff35ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielcaproni&bg_color=000000&color=0f7000&line=381e00&point=ff35ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielcaproni&show_icons=true&count_private=true&hide_border=true&title_color=0f7000&icon_color=b90002&text_color=898989&bg_color=000000" alt="Gabriel Pegoraro github stats" /> 
